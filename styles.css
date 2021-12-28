@@ -1,0 +1,14 @@
+.cube {
+    width: 500px;
+    height: 500px;
+    border: 2px black solid;
+
+}
+.tile{
+    height: calc(100% / 3);
+    width: calc(100% / 3);
+    background-color: blue;
+    box-sizing: border-box;
+    float: left;
+    border: 2px black solid;
+}
